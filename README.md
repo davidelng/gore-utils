@@ -30,7 +30,9 @@ If you are looking for production-ready software, this is not it. If you are loo
 ## Zen
 
 May thy pipes never break.
+
 May thy flags always parse.
+
 May thy panics be educational.
 
 ## Roadmap
@@ -45,6 +47,6 @@ In no particular order and with no guarantee that I will actually implement them
 - `sed` replace by text patterns, highly dangerous
 - `in-memory` in-memory database
 - `comp` file compressor (Huffman, unless I get skill issues mid-implementation)
-- `rm` but safer, trust me
-- `netdog` not really a cat person
+- `del` rm but safer, trust me
+- `net` network related tools (cool names: Bartmoss, Neuromancer)
 
