@@ -43,10 +43,16 @@ In no particular order and with no guarantee that I will actually implement them
 
 - `copy` high-performance byte-shoveler
 - `list` fancy directory lister (maybe with tree support if I feel brave)
-- `grep` search by text patterns
-- `sed` replace by text patterns, highly dangerous
-- `in-memory` in-memory database
-- `comp` file compressor (Huffman, unless I get skill issues mid-implementation)
+- `print` cat with a different name, maybe include head and tail with flags
+- `dump` like hexdump but with a default -C
+- `move` move and rename files
+- `tap` create files or update timestamp of a file (maybe dirs too with flag -d?)
 - `del` rm but safer, trust me
+- `grep` search by text patterns
+- `count` wc but without the toilet reference
+- `sed` replace by text patterns, highly dangerous
+- `memo` in-memory database
+- `comp` file compressor (Huffman, unless I get skill issues mid-implementation)
 - `net` network related tools (cool names: Bartmoss, Neuromancer)
-
+- `pwd` cli based password manager
+- and probably chmod, realpath, base64, cksum
