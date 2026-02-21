@@ -35,7 +35,7 @@ May thy flags always parse.
 
 May thy panics be educational.
 
-## Roadmap
+## Roadmap (or maybe Wishlist)
 
 > NOTE: names are WIP
 
@@ -43,13 +43,13 @@ In no particular order and with no guarantee that I will actually implement them
 
 - `copy` high-performance byte-shoveler
 - `list` fancy directory lister (maybe with tree support if I feel brave)
-- `print` cat with a different name, maybe include head and tail with flags, less-style pagination would be cool
+- `spill` cat with a different name, maybe include head and tail with flags, less-style pagination would be cool
 - `dump` like hexdump but with a default -C
 - `move` move and rename files, with interactive mode to prevent data loss
 - `tap` create files or update timestamp of a file (maybe dirs too with flag -d?)
 - `del` rm but safer, trust me
 - `count` wc but without the toilet reference
-- `loc` short for locate, find without the unnecessary complexity
+- `loc` find without the unnecessary complexity
 - `seek` search by text patterns
 - `sub` replace by text patterns, highly dangerous
 - `mory` in-memory database
