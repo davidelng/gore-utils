@@ -25,7 +25,7 @@ We believe in:
 
 We do not aim to replace coreutils or other programs, we aim to understand them and, possibly, reimagine them.
 
-If you are looking for production-ready software, this is not it. If you are looking for engligthment through mild suffering, welcome.
+If you are looking for production-ready software, this is not it. If you are looking for englightment through mild suffering, welcome.
 
 ## Zen
 
@@ -35,7 +35,7 @@ May thy flags always parse.
 
 May thy panics be educational.
 
-## Roadmap (or maybe Wishlist)
+## Roadmap (more like Wishlist)
 
 > NOTE: names are WIP
 
@@ -51,7 +51,7 @@ In no particular order and with no guarantee that I will actually implement them
 - `count` wc but without the toilet reference
 - `loc` find without the unnecessary complexity
 - `seek` search by text patterns
-- `sub` replace by text patterns, highly dangerous
+- `sub` replace by text patterns, highly dangerous, maybe interactive or dry run?
 - `mory` in-memory database
 - `comp` file compressor (Huffman, unless I get skill issues mid-implementation)
 - `net` network related tools, maybe a -p for ping and basic requests functionality
